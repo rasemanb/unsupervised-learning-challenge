@@ -11,7 +11,7 @@ findings with your team and other key stakeholders.
 
 # Process
 
-*** Part 1: Prepare the Data ***
+***Part 1: Prepare the Data***
 
 1. Read data into Pandas DataFrame.
 
@@ -19,7 +19,7 @@ findings with your team and other key stakeholders.
 
 3. Standardize the dataset so that columns that contain larger values do not influence the outcome more than columns with smaller values.
 
-*** Part 2: Apply DImensionality Reduction ***
+***Part 2: Apply DImensionality Reduction***
 
 1. Perform dimensionality reduction with PCA.
 
@@ -27,10 +27,10 @@ findings with your team and other key stakeholders.
 
 3. Create a scatter plot of the t-SNE output.
 
-*** Part 3: Perform a Cluster Analysis with K-means ***
+***Part 3: Perform a Cluster Analysis with K-means***
 
 1. Create an elbow plot to identify the best number of clusters.
 
-*** Part 4: Make a Recommendation ***
+***Part 4: Make a Recommendation***
 
 1. Based on your findings, write up a brief recommendation for your supervisor. 
